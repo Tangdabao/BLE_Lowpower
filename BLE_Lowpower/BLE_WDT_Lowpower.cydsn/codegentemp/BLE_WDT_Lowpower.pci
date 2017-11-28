@@ -1,0 +1,9 @@
+# BLE_WDT_Lowpower
+# 2017-11-28 07:44:20Z
+
+# IO_0@[IOP=(6)][IoId=(0)] is reserved: KhzXtalEnabled
+dont_use_io iocell 6 0
+# IO_1@[IOP=(6)][IoId=(1)] is reserved: KhzXtalEnabled
+dont_use_io iocell 6 1
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "LED_Status(0)" iocell 1 0

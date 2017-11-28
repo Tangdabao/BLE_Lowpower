@@ -1,0 +1,9 @@
+E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_adv_lowpower.cydsn\BLE_adv_lowpower.cyprj|73852f85-5942-4281-b323-27e504ea8158
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7fb6f9d8-53de-4e52-8178-de1b70059eeb
+C:\Users\Administrator\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|c9feb9aa-9fc5-426c-bdb5-8aea22a01565
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2ac7e8f4-c4c2-4709-b5d1-8ea2730f1e5a
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|71fd4862-5f0c-4079-aa87-cfb05daaa04f
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|83c92bc2-5c17-4756-a6f5-ad319692632c
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\dev\psoc4\PSoC4AnalogDevice\psoc4arch.cydsn\psoc4arch.cyprj|0ab9d016-6cdf-4468-ba53-f507ca389ef1
+E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\BLE_WDT_Lowpower.cyprj|1415bc71-2cd7-4d0c-a149-16f1e2c0603b
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|3948a36e-a142-42fa-b78b-4ed784ae22d3

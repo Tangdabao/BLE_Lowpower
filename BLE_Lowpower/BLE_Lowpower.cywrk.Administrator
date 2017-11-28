@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE_Lowpower\BLE_WDT_Lowpower\Source Files\main.c">
+<ExpandedNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Pins</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Analog</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Clocks</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Interrupts</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\System</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Directives</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.cydwr\Flash Security</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Header Files</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Header Files\cyapicallbacks.h</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Source Files</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Source Files\main.c</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Generated_Source\PSoC4</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\Generated_Source\PSoC4\LED_Status</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Pins</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Analog</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Clocks</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Interrupts</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\System</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Directives</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Flash Security</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Header Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Header Files\cyapicallbacks.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Source Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Source Files\main.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\isr_WDT</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Pins</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Analog</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Clocks</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Interrupts</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\System</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Directives</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.cydwr\Flash Security</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Header Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Header Files\cyapicallbacks.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Source Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Source Files\main.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\BLE_1</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\BLE_1_bless_isr</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cy_boot</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cy_lfclk</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\isr_WDT</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\isr_WDT\isr_WDT.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\isr_WDT\isr_WDT.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status\LED_Status.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status\LED_Status.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status\LED_Status_aliases.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\LED_Status\LED_Status_PM.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfitter.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\cymetadata.c</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\Generated_Source\PSoC4\project.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\TopDesign\TopDesign.cysch</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\TopDesign\TopDesign.cysch</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_ans.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_bless_isr.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_eventHandler.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_gatt.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_HAL_INT.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_HAL_PVT.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status_PM.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.elf</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.hex</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.map</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.gpdsc</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.rpt</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower_timing.html</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_ias.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_WDT.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status_PM.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\BLE_WDT_Lowpower.elf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\BLE_WDT_Lowpower.hex</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\BLE_WDT_Lowpower.map</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.gpdsc</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower.rpt</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_WDT_Lowpower_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_ans.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_bless_isr.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_eventHandler.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_gatt.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_HAL_INT.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_HAL_PVT.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_Status_PM.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.elf</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.hex</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\CortexM0\ARM_GCC_541\Debug\BLE_adv_lowpower.map</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.gpdsc</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower.rpt</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_adv_lowpower_timing.html</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_bless_isr.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_eventHandler.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_gatt.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_INT.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_HAL_PVT.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\BLE_1_ias.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\PSoC 4 Architecture TRM</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_v3_40.pdf</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\cy_pins_v2_20.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\PSoC 4 Architecture TRM</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_v3_40.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_gsref_v2_10.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_isr_v1_70.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_pins_v2_20.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>BLE_Lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\PSoC 4 Architecture TRM</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\BLE_v3_40.pdf</v>
+<v>BLE_Lowpower\BLE_adv_lowpower\cy_pins_v2_20.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\PSoC 4 Architecture TRM</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\PSoC 4200 BLE Family Datasheet</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides\cy_boot_v5_60</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\System Reference Guides\cy_lfclk_v1_20</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\BLE_v3_40.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_gsref_v2_10.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_isr_v1_70.pdf</v>
+<v>BLE_Lowpower\BLE_WDT_Lowpower\cy_pins_v2_20.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="705" DocumentName=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLFClk.h" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+</indicators>
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\BLE_WDT_Lowpower.cydsn\BLE_WDT_Lowpower.cydwr" />
+<name v=".\BLE_WDT_Lowpower.cydsn\main.c" />
+<name v=".\BLE_WDT_Lowpower.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\isr_WDT.h" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\cytypes.h" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\isr_WDT.c" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLFClk.h" />
+<name v=".\BLE_adv_lowpower.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLib.c" />
+<name v=".\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLib.h" />
+<name v=".\BLE_adv_lowpower.cydsn\main.c" />
+<name v=".\BLE_adv_lowpower.cydsn\Generated_Source\PSoC4\BLE_Stack.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1206, 726" SelectedTabbedMdiWindow="44cb54dd-a5b6-4377-8eea-241931b1521f"><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\BLE_WDT_Lowpower.cydwr" Guid="a63f50ff-93e4-44f1-a5d0-078f4f245e18" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\main.c" Guid="44cb54dd-a5b6-4377-8eea-241931b1521f" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\TopDesign\TopDesign.cysch" Guid="e7f7a29d-b1c2-4b95-a24d-d1cd22f77877" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\isr_WDT.h" Guid="515e3a4f-9fee-40d9-a445-f26ca6b25590" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\cytypes.h" Guid="960e103a-25bc-4db4-9152-3a6d5de1a49b" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\isr_WDT.c" Guid="a1eb842d-5b41-49e2-91e2-85d71ac94ed2" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLFClk.h" Guid="8feea69c-2e28-4b5a-97aa-72c0d42b1cb9" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_adv_lowpower.cydsn\TopDesign\TopDesign.cysch" Guid="0e12eb1c-4005-4b38-99e9-43562afac5e9" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLib.c" Guid="ec278385-51be-4540-add0-459b69648873" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_WDT_Lowpower.cydsn\Generated_Source\PSoC4\CyLib.h" Guid="87bf2d57-f820-4c11-9788-f47a6cf30676" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_adv_lowpower.cydsn\main.c" Guid="a556bd78-cbae-468a-86f1-dae9586aafeb" /><DocumentWindow Key="E:\MCU_learning\cypress\Cypress_Lowpower\BLE_Lowpower\BLE_Lowpower\BLE_adv_lowpower.cydsn\Generated_Source\PSoC4\BLE_Stack.h" Guid="179ccac8-a583-4221-acfd-a4cb28dce16c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

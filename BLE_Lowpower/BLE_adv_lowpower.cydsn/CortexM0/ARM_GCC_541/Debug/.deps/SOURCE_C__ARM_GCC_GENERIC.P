@@ -1,0 +1,70 @@
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_Stack.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGap.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_ans.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_gatt.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyFlash.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyLFClk.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyLib.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/LED_Status.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/LED_Status_aliases.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_armcc.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_compiler.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_gcc.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/core_cm0.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyPm.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cydevice_trm.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cydisabledsheets.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyfitter.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cypins.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cytypes.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/project.h E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/main.c 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_HAL_PVT.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_STACK_PVT.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_Stack.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGap.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGatt.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattClient.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattDb.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackGattServer.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackHostMain.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_StackL2cap.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_ans.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_bless_isr.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_eventHandler.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/BLE_gatt.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/LED_Status.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/LED_Status_aliases.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/Generated_Source/PSoC4/project.h : 
+
+E:/MCU_learning/cypress/Cypress_Lowpower/BLE_Lowpower/BLE_Lowpower/BLE_adv_lowpower.cydsn/main.c : 
+
